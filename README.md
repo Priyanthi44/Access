@@ -18,10 +18,12 @@ Create SQL Light Database model
 <li>
   Room dependency
 </li>
- Groovy test cases
+<li>
+ Groovy test cases</li>
 <li>
   Room Database classes
 </li>
+
 ### Day 2
 Create Interfaces
 ### Day 3
