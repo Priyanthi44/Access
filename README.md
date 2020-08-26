@@ -15,7 +15,13 @@
 
 ### Day 1
 Create SQL Light Database model
-
+<li>
+  Room dependency
+</li>
+ Groovy test cases
+<li>
+  Room Database classes
+</li>
 ### Day 2
 Create Interfaces
 ### Day 3
